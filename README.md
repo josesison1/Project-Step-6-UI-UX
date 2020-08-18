@@ -23,5 +23,5 @@
 7. Once the user decides on the rental length and clicks on "Rent" it will automatically generate an automated message to the listed user. They will get a notification and discuss further action i.e transaction & meet up. The users will be responsible for the transaction and payments.
 ![Rent](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/7.png)
 
-Below is my ERD:
+Below is the Entity Relationship Diagram (ERD) for the application:
 ![ERD](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/NEW%20ERD%20PROJECT.png)
