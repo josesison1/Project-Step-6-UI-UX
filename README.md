@@ -1,4 +1,4 @@
-# "RentMeUp" UI/UX
+# "RentNow" UI/UX
 ### Wireframe sketch design 
 
 1. This is the main page of the website with a selection of "LOGIN" and "SIGN UP". 
