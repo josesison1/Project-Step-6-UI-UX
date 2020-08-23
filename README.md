@@ -1,7 +1,7 @@
 # "RentNow" UI/UX
 ### Wireframe sketch design 
 
-1. This is the main page of the website with a selection of "LOGIN" and "SIGN UP". 
+1. This is the main page of the website with a selection of "__LOGIN__" and "__SIGN UP__". 
 ![Main Page](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/1.png)
 
 2. This is the __login__ page. Email and password are the required fields to log in.
@@ -10,10 +10,10 @@
 3. This is the __registration__ page with the required fields to create an account.
 ![Registration](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/3.png)
 
-4. This is the main page once user is logged in. It will have a "search bar" feature, next to it is the location feature where users can input their zip code or city. Top right corner is the users profile page. It also have the different category options.
+4. This is the __main page__ once user is logged in. It will have a "search bar" feature, next to it is the location feature where users can input their zip code or city. Top right corner is the users profile page. It also have the different category options.
 ![Logged In](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/4.gif)
 
-5. Once the user browsing the website selects a category, in this example "Games". It will populate all item under games category within that area.
+5. Once the user browsing the website selects a category, in this example "__Games__". It will populate all item under games category within that area.
 
 ![Games category](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/5.png)
 
