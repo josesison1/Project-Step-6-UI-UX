@@ -1,7 +1,7 @@
 # "RentNow" UI/UX
 ### Wireframe sketch design 
 
-1. This is the main page of the website with a selection of __"LOGIN" and "SIGN UP". __
+1. This is the main page of the website with a selection of "LOGIN" and "SIGN UP". 
 ![Main Page](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/1.png)
 
 2. This is the __login__ page. Email and password are the required fields to log in.
