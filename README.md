@@ -168,7 +168,7 @@ __Then__ the application populate new searches that is within those set settings
  ## Requirements Table  <a name="Requirements-Table"></a>
 |Requirement No.| Description|Test Method|Test ID|
 |---|------------|-----------|-------|
-|1.0|Create new user account|Demonstration|TID1|
+|1.0|Create new user account|Inspection|TID1|
 |1.1|System shall verify all information input by user are all in correct format|Test|TID2|
 |1.2|System shall verify both password entries match in order to create new account|Test|TID3|
 |1.3|System shall verify registering user is 18 years old or over|Test|TID4|
