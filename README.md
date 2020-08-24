@@ -46,6 +46,7 @@ It will have features that can be easily be navigated through by users.
 4. This is the __main page__ once user is logged in. It will have a "search bar" feature, next to it is the location feature where users can input their zip code or city. Top right corner is the users profile page. It also have the different category options.
 ![Logged In](https://github.com/josesison1/RentNow-UI-UX/blob/master/4.PNG)
 5. Once the user browsing the website selects a category, in this example "__Games__". It will populate all item under games category within that area.
+
 ![Games category](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/5.png)
 6. Once the user selects an item, this will be the next screen which displays the item description, pictures, length of rental, and it will show the other user who listed the item along with a message button for further questions.
 ![Nintendo Switch](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/6.png)
@@ -166,7 +167,7 @@ __Then__ the application populate new searches that is within those set settings
 ---
 [back to top](#back-to-top)
  ## Requirements Table  <a name="Requirements-Table"></a>
-|No.| Description|Test Method|Test ID|
+|Requirement No.| Description|Test Method|Test ID|
 |---|------------|-----------|-------|
 |1.0|Create new user account|
 |1.1|System shall verify all information input by user are all in correct format|
@@ -179,4 +180,8 @@ __Then__ the application populate new searches that is within those set settings
 |3.1|System shall calculate rental cost per users rental length entry|
 |4.0|Automated Message to listing user|
 |4.1|System shall generate automated message to the listing user once the other user selects "Rent Now" button|
+
+---
+[back to top](#back-to-top)
+ ## Test Table  <a name="Test-Table"></a>
 
