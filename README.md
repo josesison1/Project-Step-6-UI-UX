@@ -169,14 +169,14 @@ __Then__ the application populate new searches that is within those set settings
 |No.| Description|Test Method|Test ID|
 |---|------------|-----------|-------|
 |1.0|Create new user account|
-|1.1|Verify all information input are correct format|
-|1.2|Verify both password entries match|
-|1.3|Verify registering user is 18 years old or over|
+|1.1|System shall verify all information input by user are all in correct format|
+|1.2|System shall verify both password entries match in order to create new account|
+|1.3|System shall verify registering user is 18 years old or over|
 |2.0|User login|
-|2.1|Invalid error if user enters wrong username or password|
-|2.2|Lock out user after 3 failed login attempts|
+|2.1|System shall display an invalid error message if user enters wrong username or password|
+|2.2|System shall lock out user after 3 failed login attempts|
 |3.0|Rental Length|
-|3.1|Calculate rental cost per users rental length entry|
+|3.1|System shall calculate rental cost per users rental length entry|
 |4.0|Automated Message to listing user|
-|4.1|Generate automated message to the listing user once the other user selects "Rent Now" button|
+|4.1|System shall generate automated message to the listing user once the other user selects "Rent Now" button|
 
