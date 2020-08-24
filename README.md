@@ -46,7 +46,6 @@ It will have features that can be easily be navigated through by users.
 4. This is the __main page__ once user is logged in. It will have a "search bar" feature, next to it is the location feature where users can input their zip code or city. Top right corner is the users profile page. It also have the different category options.
 ![Logged In](https://github.com/josesison1/RentNow-UI-UX/blob/master/4.PNG)
 5. Once the user browsing the website selects a category, in this example "__Games__". It will populate all item under games category within that area.
-
 ![Games category](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/5.png)
 6. Once the user selects an item, this will be the next screen which displays the item description, pictures, length of rental, and it will show the other user who listed the item along with a message button for further questions.
 ![Nintendo Switch](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/6.png)
@@ -169,19 +168,24 @@ __Then__ the application populate new searches that is within those set settings
  ## Requirements Table  <a name="Requirements-Table"></a>
 |Requirement No.| Description|Test Method|Test ID|
 |---|------------|-----------|-------|
-|1.0|Create new user account|
-|1.1|System shall verify all information input by user are all in correct format|
-|1.2|System shall verify both password entries match in order to create new account|
-|1.3|System shall verify registering user is 18 years old or over|
-|2.0|User login|
-|2.1|System shall display an invalid error message if user enters wrong username or password|
-|2.2|System shall lock out user after 3 failed login attempts|
-|3.0|Rental Length|
-|3.1|System shall calculate rental cost per users rental length entry|
-|4.0|Automated Message to listing user|
-|4.1|System shall generate automated message to the listing user once the other user selects "Rent Now" button|
+|1.0|Create new user account|Demonstration|TID1|
+|1.1|System shall verify all information input by user are all in correct format|Test|TID2|
+|1.2|System shall verify both password entries match in order to create new account|Test|TID3|
+|1.3|System shall verify registering user is 18 years old or over|Test|TID4|
+|2.0|User login|Inspection|TID5|
+|2.1|System shall display an invalid error message if user enters wrong username or password|Test|TID6|
+|2.2|System shall lock out user after 3 failed login attempts|Test|TID7|
+|3.0|Rental Length|Inspection|TID8|
+|3.1|System shall calculate rental cost per users rental length entry|Test|TID9|
+|4.0|Automated Message to listing user|Test|TID10|
+|4.1|System shall generate automated message to the listing user once the other user selects "Rent Now" button|Inspection|TID11|
 
 ---
 [back to top](#back-to-top)
  ## Test Table  <a name="Test-Table"></a>
-
+|Test ID|Req. No.|Test Procedure|Status|Date/Time Stamp|
+|-------|--------|--------------|------|---------------|
+|TID1|1.0,1.1,1.2,1.3|
+|TID5|2.0,2.1,2.2|
+|TID8|3.0,3.1|
+|TID10|4.0,4.1|
