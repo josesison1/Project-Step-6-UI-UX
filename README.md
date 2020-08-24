@@ -13,7 +13,7 @@
   4. [Database Diagram](#Database-Diagram)
   5. [User Stories](#User-Stories)
   6. [Use Cases](#Use-Cases)
-  7. [Use Case Diagram] (#Use-Case-Diagram)
+  7. [Use Case Diagram](#Use-Case-Diagram)
   8. [Requirements](#Requirements)
   9. [Requirements Table](#Requirements-Table)
   10. [Test Table](#Test-Table)
