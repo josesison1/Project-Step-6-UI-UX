@@ -58,13 +58,13 @@
 [back to top](#back-to-top)
 ## Entity Relationship Diagram (ERD) <a name="Entity-Relationship-Diagram"></a>
 
-![ERD](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/NEW%20ERD%20PROJECT.png)
+![ERD](https://github.com/josesison1/RentNow-UI-UX/blob/master/Wireframe%20and%20diagrams/NEW%20ERD%20PROJECT.png)
 
 ---
 [back to top](#back-to-top)
  ## Database Diagram   <a name="Database-Diagram"></a>
  
-![DatabaseDiagram](https://github.com/josesison1/RentNow-UI-UX/blob/master/Project%20ERD%20SQL.PNG)
+![DatabaseDiagram](https://github.com/josesison1/RentNow-UI-UX/blob/master/Wireframe%20and%20diagrams/Project%20ERD%20SQL.PNG)
 
 ---
 [back to top](#back-to-top)
