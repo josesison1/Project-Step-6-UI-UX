@@ -5,12 +5,12 @@
   
   ---
             
-# Table of Contents 
+# Table of Contents <a name="back-to-top"></a>
 
   1. [Application Description](#Application-Description)
   2. [Wireframe Design](#Wireframe-Design)
   3. [Entity Relationship Diagram (ERD)](#Entity-Relationship-Diagram)
-  4. [Database Diagram]
+  4. [Database Diagram](#Database-Diagram)
   5. [User Stories]
   6. [Use Cases]
   7. [Use Case Diagram] 
@@ -19,18 +19,22 @@
   10. [Test Table]
   
   ---
+[back to top](#back-to-top)
+
   
   <p align="center">  
   
  ## Application Description   <a name="Application-Description"></a>
  
  </p> 
+ 
+ 
   
   This is a marketing application for users who are interested in renting items from others in their sorrounding area.
 It will have features that can be easily be navigated through by users.
 
 ---
-
+[back to top](#back-to-top)
 ## Wireframe Design <a name="Wireframe-Design"></a>
 
 1. This is the main page of the website with a selection of "__LOGIN__" and "__SIGN UP__". 
@@ -57,9 +61,13 @@ It will have features that can be easily be navigated through by users.
 
 
 ---
+[back to top](#back-to-top)
 ## Entity Relationship Diagram (ERD) <a name="Entity-Relationship-Diagram"></a>
 
 ![ERD](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/NEW%20ERD%20PROJECT.png)
 
 ---
+ ## Database Diagram   <a name="Database-Diagram"></a>
+ 
+![DatabaseDiagram](https://github.com/josesison1/RentNow-UI-UX/blob/master/Project%20ERD%20SQL.PNG)
 
