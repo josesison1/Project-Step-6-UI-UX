@@ -98,6 +98,7 @@ __When__ its the users first time using the application,
 
 __Then__ user will be able to utilize the application once they create an account.
 
+
 Scenario 2:
 
 __Given__ the user logs in to the application
@@ -106,6 +107,7 @@ and request additional information on a specific listing.
 __When__ they reach out and message the listing user,
 
 __Then__ the listing user will get a notification message.
+
 
 Scenario 3:
 
@@ -116,6 +118,7 @@ __When__ the user completes all required fields for listing,
 
 __Then__ the listing will be posted for others to view.
 
+
 Scenario 4:
 
 __Given__ the user is interested in renting an item
@@ -124,6 +127,7 @@ and decides the rental length.
 __When__ the user clicks the "rent" button,
 
 __Then__ the application will send an automated message to the listing user to let them know.
+
 
 Scenario 5:
 
@@ -134,4 +138,9 @@ __When__ the user changes his location and radius miles,
 
 __Then__ the application populate new searches that is within those set settings.
  
+---
+[back to top](#back-to-top)
+ ## Use Case Diagram  <a name="Use-Case-Diagram"></a>
+![ERD](https://github.com/josesison1/RentMeUp-SRS/blob/master/use%20case%20diagram.PNG)
+
 
