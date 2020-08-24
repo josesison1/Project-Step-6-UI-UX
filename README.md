@@ -1,6 +1,37 @@
+# "RentNow" Marketing Application 
+ 
 <p align="center">
+  <img width="800" height="350" src="https://github.com/josesison1/RentNow-UI-UX/blob/master/project%20pic.PNG"> </p>
   
-# "RentNow" Marketing Application </p>
+  ---
+  
+
+Table of Contents
+=================
+
+   * [Application Description] (#application-description)
+   
+   
+  * [2. Wireframe Design]
+  3. Entity Relationship Diagram (ERD)
+  4. Database Diagram
+  5. User Stories
+  6. Use Cases
+  7. Use Case Diagram 
+  8. Requirements
+  9. Requirements Table
+  10. Test Table
+  
+  ---
+  
+  <p align="center">  
+  
+ ### Application Description </p> 
+  
+  This is a marketing application for users who are interested in renting items from others in their sorrounding area.
+It will have features that can be easily be navigated through by users.
+
+
 
 ### Wireframe Design
 
