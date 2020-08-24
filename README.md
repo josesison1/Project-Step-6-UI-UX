@@ -11,12 +11,12 @@
   2. [Wireframe Design](#Wireframe-Design)
   3. [Entity Relationship Diagram (ERD)](#Entity-Relationship-Diagram)
   4. [Database Diagram](#Database-Diagram)
-  5. [User Stories]
-  6. [Use Cases]
-  7. [Use Case Diagram] 
-  8. [Requirements]
-  9. [Requirements Table]
-  10. [Test Table]
+  5. [User Stories](#User-Stories)
+  6. [Use Cases](#Use-Cases)
+  7. [Use Case Diagram] (#Use-Case-Diagram)
+  8. [Requirements](#Requirements)
+  9. [Requirements Table](#Requirements-Table)
+  10. [Test Table](#Test-Table)
   
   ---
 [back to top](#back-to-top)
@@ -67,7 +67,71 @@ It will have features that can be easily be navigated through by users.
 ![ERD](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/NEW%20ERD%20PROJECT.png)
 
 ---
+[back to top](#back-to-top)
  ## Database Diagram   <a name="Database-Diagram"></a>
  
 ![DatabaseDiagram](https://github.com/josesison1/RentNow-UI-UX/blob/master/Project%20ERD%20SQL.PNG)
+
+---
+[back to top](#back-to-top)
+ ## User Stories   <a name="User-Stories"></a>
+ 
+__As a__ homeowner with 30 acres of land in the middle of no where,
+__I want__ a system where I could purchase or rent items from my neighbors nearby instead of driving 1 hour to the nearest shopping center. 
+__So that__ it is more convenient for myself and will save me a lot of time.
+
+
+__As a__ do it yourself (DIY) person, I always find myself crafting something new for my home,
+__I need__ a system where I could borrow supplies and tools needed for my projects.
+__So that__ I don't have to buy expensive tools or items that I would only use for 1 day.
+
+---
+[back to top](#back-to-top)
+ ## Use Case(s) <a name="Use-Cases"></a>
+ 
+ Scenario 1:
+ 
+__Given__ the user to register for an account
+and has filled out the registration form.
+
+__When__ its the users first time using the application,
+
+__Then__ user will be able to utilize the application once they create an account.
+
+Scenario 2:
+
+__Given__ the user logs in to the application
+and request additional information on a specific listing.
+
+__When__ they reach out and message the listing user,
+
+__Then__ the listing user will get a notification message.
+
+Scenario 3:
+
+__Given__ the user post a listing up for rent
+and picks the category the item is in.
+
+__When__ the user completes all required fields for listing,
+
+__Then__ the listing will be posted for others to view.
+
+Scenario 4:
+
+__Given__ the user is interested in renting an item
+and decides the rental length.
+
+__When__ the user clicks the "rent" button,
+
+__Then__ the application will send an automated message to the listing user to let them know.
+
+Scenario 5:
+
+__Given__ the user is looking to expand outside his local area 
+and is looking to network more than 30miles radius.
+
+__When__ the user changes his location and radius miles,
+
+__Then__ the application populate new searches that is within those set settings.
+ 
 
