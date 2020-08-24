@@ -47,7 +47,7 @@ It will have features that can be easily be navigated through by users.
 ![Registration](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/3.png)
 
 4. This is the __main page__ once user is logged in. It will have a "search bar" feature, next to it is the location feature where users can input their zip code or city. Top right corner is the users profile page. It also have the different category options.
-![Logged In](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/4.png)
+![Logged In](https://github.com/josesison1/RentNow-UI-UX/blob/master/4.PNG)
 
 5. Once the user browsing the website selects a category, in this example "__Games__". It will populate all item under games category within that area.
 
