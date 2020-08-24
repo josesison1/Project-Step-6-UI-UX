@@ -30,8 +30,8 @@
  
  
   
-  This is a marketing application for users who are interested in renting items from others in their sorrounding area.
-It will have features that can be easily be navigated through by users.
+  This is a marketing application for users who are interested in renting items from others in their sorrounding area. This application contains various types of items avaiable to rent with local users. Find items nearby by entering your currently location or zip code and be able to set a miles radius on how far you are willing to network. Browse through different categories or search the specific item you are looking for. With a simple click of a button, you can now interact with the listing user and rent an item.
+
 
 ---
 [back to top](#back-to-top)
