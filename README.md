@@ -185,7 +185,14 @@ __Then__ the application populate new searches that is within those set settings
  ## Test Table  <a name="Test-Table"></a>
 |Test ID|Req. No.|Test Procedure|Status|Date/Time Stamp|
 |-------|--------|--------------|------|---------------|
-|TID1|1.0,1.1,1.2,1.3|Ensure register is properly working when clicked and user enters correct format on all fields|In Progress|N/A|
-|TID5|2.0,2.1,2.2|Ensure error message is displayed once user reach maximum login attempts|In Progress|N/A|
-|TID8|3.0,3.1|Ensure the system calculates the prices of rental length once selected by user|In Progress|N/A|
-|TID10|4.0,4.1|Ensure the system generates an automated message to the listing user once "Rent Now" button is clicked|In Progress|N/A|
+|TID1|1.0
+1.1
+1.2
+1.3|Ensure register is properly working when clicked and user enters correct format on all fields|In Progress|N/A|
+|TID5|2.0
+2.1
+2.2|Ensure error message is displayed once user reach maximum login attempts|In Progress|N/A|
+|TID8|3.0
+3.1|Ensure the system calculates the prices of rental length once selected by user|In Progress|N/A|
+|TID10|4.0
+4.1|Ensure the system generates an automated message to the listing user once "Rent Now" button is clicked|In Progress|N/A|
