@@ -89,7 +89,7 @@ __So that__ I don't have to buy expensive tools or items that I would only use f
 [back to top](#back-to-top)
  ## Use Case(s) <a name="Use-Cases"></a>
  
- Scenario 1:
+ #### Scenario 1:
  
 __Given__ the user to register for an account
 and has filled out the registration form.
@@ -99,7 +99,7 @@ __When__ its the users first time using the application,
 __Then__ user will be able to utilize the application once they create an account.
 
 
-Scenario 2:
+#### Scenario 2:
 
 __Given__ the user logs in to the application
 and request additional information on a specific listing.
@@ -109,7 +109,7 @@ __When__ they reach out and message the listing user,
 __Then__ the listing user will get a notification message.
 
 
-Scenario 3:
+#### Scenario 3:
 
 __Given__ the user post a listing up for rent
 and picks the category the item is in.
@@ -119,7 +119,7 @@ __When__ the user completes all required fields for listing,
 __Then__ the listing will be posted for others to view.
 
 
-Scenario 4:
+#### Scenario 4:
 
 __Given__ the user is interested in renting an item
 and decides the rental length.
@@ -129,7 +129,7 @@ __When__ the user clicks the "rent" button,
 __Then__ the application will send an automated message to the listing user to let them know.
 
 
-Scenario 5:
+#### Scenario 5:
 
 __Given__ the user is looking to expand outside his local area 
 and is looking to network more than 30miles radius.
