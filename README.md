@@ -4,36 +4,34 @@
   <img width="800" height="350" src="https://github.com/josesison1/RentNow-UI-UX/blob/master/project%20pic.PNG"> </p>
   
   ---
-  
+            
+# Table of Contents 
 
-Table of Contents
-=================
-
-   * [Application Description] (#application-description)
-   
-   
-  * [2. Wireframe Design]
-  3. Entity Relationship Diagram (ERD)
-  4. Database Diagram
-  5. User Stories
-  6. Use Cases
-  7. Use Case Diagram 
-  8. Requirements
-  9. Requirements Table
-  10. Test Table
+  1. [Application Description](#Application-Description)
+  2. [Wireframe Design](#Wireframe-Design)
+  3. [Entity Relationship Diagram (ERD)](#Entity-Relationship-Diagram)
+  4. [Database Diagram]
+  5. [User Stories]
+  6. [Use Cases]
+  7. [Use Case Diagram] 
+  8. [Requirements]
+  9. [Requirements Table]
+  10. [Test Table]
   
   ---
   
   <p align="center">  
   
- ### Application Description </p> 
+ ## Application Description   <a name="Application-Description"></a>
+ 
+ </p> 
   
   This is a marketing application for users who are interested in renting items from others in their sorrounding area.
 It will have features that can be easily be navigated through by users.
 
+---
 
-
-### Wireframe Design
+## Wireframe Design <a name="Wireframe-Design"></a>
 
 1. This is the main page of the website with a selection of "__LOGIN__" and "__SIGN UP__". 
 ![Main Page](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/1.png)
@@ -57,5 +55,11 @@ It will have features that can be easily be navigated through by users.
 7. Once the user decides on the rental length and clicks on "Rent" it will automatically generate an automated message to the listed user. They will get a notification and discuss further action i.e transaction & meet up. The users will be responsible for the transaction and payments.
 ![Rent](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/7.png)
 
-Below is the Entity Relationship Diagram (ERD) for the application:
+
+---
+## Entity Relationship Diagram (ERD) <a name="Entity-Relationship-Diagram"></a>
+
 ![ERD](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/NEW%20ERD%20PROJECT.png)
+
+---
+
