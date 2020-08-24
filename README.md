@@ -1,4 +1,6 @@
-# "RentNow" Marketing Application 
+<p align="center">
+  
+# "RentNow" Marketing Application </p>
 
 ### Wireframe Design
 
