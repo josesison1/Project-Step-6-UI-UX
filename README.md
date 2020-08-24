@@ -50,6 +50,7 @@ It will have features that can be easily be navigated through by users.
 6. Once the user selects an item, this will be the next screen which displays the item description, pictures, length of rental, and it will show the other user who listed the item along with a message button for further questions.
 ![Nintendo Switch](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/6.png)
 7. Once the user decides on the rental length and clicks on "Rent" it will automatically generate an automated message to the listed user. They will get a notification and discuss further action i.e transaction & meet up. The users will be responsible for the transaction and payments.
+
 ![Rent](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/7.png)
 
 
