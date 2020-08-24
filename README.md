@@ -1,5 +1,6 @@
-# "RentNow" UI/UX
-### Wireframe sketch design 
+# "RentNow" Marketing Application 
+
+### Wireframe Design
 
 1. This is the main page of the website with a selection of "__LOGIN__" and "__SIGN UP__". 
 ![Main Page](https://github.com/josesison1/Project-Step-6-UI-UX/blob/master/1.png)
