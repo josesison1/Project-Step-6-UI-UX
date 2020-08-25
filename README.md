@@ -183,7 +183,7 @@ __Then__ the application populate new searches that is within those set settings
 ---
 [back to top](#back-to-top)
  ## Test Table  <a name="Test-Table"></a>
-|Test ID|Req. No.|Test Procedure|Status|Date/Time Stamp|
+|Test ID|Req. No.|Test Procedure|Status|Time Stamp|
 |-------|--------|--------------|------|---------------|
 |TID1|1.0, 1.1, 1.2, 1.3|Ensure register is properly working when clicked and user enters correct format on all fields|Not Tested| |
 |TID5|2.0, 2.1, 2.2|Ensure error message is displayed once user reach maximum login attempts|Not Tested||
