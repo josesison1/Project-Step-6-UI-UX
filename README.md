@@ -17,7 +17,7 @@
   8. [Requirements](#Requirements)
   9. [Requirements Table](#Requirements-Table)
   10. [Test Table](#Test-Table)
-  11. [Prototype] (#{Prototype)
+  11. [Prototype](#Prototype)
   
   ---
 [back to top](#back-to-top)
