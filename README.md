@@ -162,6 +162,7 @@ __Then__ the application populate new searches that is within those set settings
 4.0 Automated Message to listing user
 
     4.1 Generate automated message to the listing user once the other user selects "Rent Now" button.
+    4.2 Generate total price per selected rental length.
     
 
 ---
