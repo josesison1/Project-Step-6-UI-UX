@@ -165,7 +165,7 @@ __Then__ the application populate new searches that is within those set settings
     4.2 Generate total price per selected rental length.
     
 
----
+--- 
 [back to top](#back-to-top)
  ## Requirements Table  <a name="Requirements-Table"></a>
 |Requirement No.| Description|Test Method|Test ID|
