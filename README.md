@@ -198,4 +198,9 @@ __Then__ the application populate new searches that is within those set settings
 ![Main Page](https://github.com/josesison1/RentNow-Marketing-Application/blob/master/Wireframe%20and%20diagrams/home%20page.PNG)
 ![Login](https://github.com/josesison1/RentNow-Marketing-Application/blob/master/Wireframe%20and%20diagrams/login.PNG)
 ![Register](https://github.com/josesison1/RentNow-Marketing-Application/blob/master/Wireframe%20and%20diagrams/register.PNG)
+![Main](https://github.com/josesison1/RentNow-Marketing-Application/blob/master/Wireframe%20and%20diagrams/main.PNG)
+![Product](https://github.com/josesison1/RentNow-Marketing-Application/blob/master/Wireframe%20and%20diagrams/project%20pic.PNG)
+![Message](https://github.com/josesison1/RentNow-Marketing-Application/blob/master/Wireframe%20and%20diagrams/message.PNG)
+
+
  
