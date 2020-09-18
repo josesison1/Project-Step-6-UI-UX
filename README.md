@@ -1,4 +1,4 @@
-# "RentNow" Marketing Application
+# "RentNow" Marketing Applications
  
 <p align="center">
   <img width="800" height="350" src="https://github.com/josesison1/RentNow-UI-UX/blob/master/Wireframe%20and%20diagrams/project%20pic.PNG"> </p>
